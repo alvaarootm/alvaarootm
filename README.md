@@ -1,16 +1,21 @@
-## Hi there 👋
+<div align="center">
+  <h2>Buenas 👋🏻, soy Alvaro Teran</h2>
+</div>
 
-<!--
-**alvaarootm/alvaarootm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Bienvenido+a+mi+perfil+de+GitHub;Software+Developer;"></a>
+</p>
 
-Here are some ideas to get you started:
+``` Java
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+class UserProfile {
+  private String name = "Alvaro Teran";
+  private String username = "alvaarootm";
+  private String location = "Sevilla, España";
+  }
+
+public static void main(String[] args) {
+  UserProfile me = new UserProfile();
+}
+
+```
